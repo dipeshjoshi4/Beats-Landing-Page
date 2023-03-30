@@ -2,6 +2,8 @@
 # 🔗 Beats-Landing-Page
 
 - This Website is for online buying Wearbels like Watch,Speakers,Headphones
+- which is given every and each deatil of Wearbels and its required lots of solution then old Wearbels Website
+- we can say its beutifull design .given right solution with good features and provide good user experience to client
 
 
 
