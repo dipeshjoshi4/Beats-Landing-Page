@@ -5,6 +5,12 @@
 - which is given every and each deatil of Wearbels and its required lots of solution then old Wearbels Website
 - we can say its beutifull design .given right solution with good features and provide good user experience to client
 
+ ## 🔗 Tech Stack
+
+**Web-development skills:** HTML and Css.
+
+**Source code editor:** VS Code
+
 
 
 # Replicate the Following Output
