@@ -5,6 +5,10 @@
 - which is given every and each deatil of Wearbels and its required lots of solution then old Wearbels Website
 - we can say its beutifull design .given right solution with good features and provide good user experience to clien
 
+
+## 🔗 Live Link
+ [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://beats-wearables-dj.netlify.app)
+ 
  ## 🔗 Tech Stack
 
 **Web-development skills:** HTML and Css.
