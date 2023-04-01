@@ -4,7 +4,14 @@
     box-sizing: border-box;
     font-family: 'Poppins';
 }
-
+.developer-details {
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.5em;
+    padding-bottom: 50px;
+    padding-top: 150px;
+}
 body{
     background-color: black;
     color:white;
